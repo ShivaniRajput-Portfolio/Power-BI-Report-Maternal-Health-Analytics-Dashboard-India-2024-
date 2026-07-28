@@ -2,7 +2,7 @@
 
 An interactive **Power BI dashboard** that analyzes maternal healthcare indicators across **34 States/UTs and 588 Districts** in India, using data from the **Ministry of Health & Family Welfare (NHM Health Indicator)**.
 
-![Dashboard Preview](Maternity_Health_Analytics_Dashboard.png)
+<img width="779" height="472" alt="Maternity Health Analytics Dashboard" src="https://github.com/user-attachments/assets/faa76f0e-f3b0-4188-9595-8dd3cd061859" />
 
 ---
 
@@ -77,8 +77,8 @@ Compares all five indicators across India's 7 regions (North, South, East, West,
 **6. Interactive India Map**
 A filled shape map colored by institutional birth %, with slicers for Region, State, Risk Tier, and District — clicking a state reveals a detailed tooltip card.
 
-![Map View](Maternal_health_analysis_map.png)
-![Tooltip Detail](Maternal_health_analytics.png)
+<img width="907" height="528" alt="Maternal health analysis map" src="https://github.com/user-attachments/assets/c76e2cd2-c478-4703-8e23-64b8d507f85b" />
+<img width="961" height="519" alt="Maternal health analytics" src="https://github.com/user-attachments/assets/a475c335-5a73-4cbe-935f-2e06235f2381" />
 
 ---
 
@@ -87,6 +87,8 @@ A filled shape map colored by institutional birth %, with slicers for Region, St
 - **Kerala, Goa, Puducherry, Tamil Nadu, and Andaman & Nicobar** lead in institutional births.
 - **Uttar Pradesh, Uttarakhand, Meghalaya, Jharkhand, and Chhattisgarh** need urgent policy focus.
 - Nearly **1 in 4 districts (22.8%)** fall in the **Critical** risk tier.
+- Identified 374 at-risk districts (22.8% Critical,40.37% Watch) based on ANC registration, TT injections, and institutional birth rates.
+- Revealed care gaps with 45.18% ANC 1st trimester registration and 74.15% TT injection rate nationally.
 - There is a noticeable gap between **ANC 1st trimester registration (45%)** and **institutional births (45%)**, showing consistent drop-off through the care journey.
 
 ---
@@ -130,4 +132,3 @@ If you have feedback or suggestions on this project, feel free to connect!
 
 - **LinkedIn:** [Add your link]
 - **Email:** [Add your email]
-
